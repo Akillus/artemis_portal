@@ -1,0 +1,1596 @@
+/* @preserve
+ * Leaflet 1.9.4, a JS library for interactive maps. https://leafletjs.com
+ * (c) 2010-2023 Vladimir Agafonkin, (c) 2010-2011 CloudMade
+ */
+
+/*!
+  * vue-scrollto v2.20.0
+  * (c) 2019 Randjelovic Igor
+  * @license MIT
+  */
+
+/*!
+ * @license
+ * chartjs-plugin-zoom
+ * http://chartjs.org/
+ * Version: 0.7.7
+ *
+ * Copyright 2020 Chart.js Contributors
+ * Released under the MIT license
+ * https://github.com/chartjs/chartjs-plugin-zoom/blob/master/LICENSE.md
+ */
+
+/*!
+ * Chart.js v2.9.4
+ * https://www.chartjs.org
+ * (c) 2020 Chart.js Contributors
+ * Released under the MIT License
+ */
+
+/*!
+ * vue-router v4.6.4
+ * (c) 2025 Eduardo San Martin Morote
+ * @license MIT
+ */
+
+/*!
+ * wordcloud2.js
+ * http://timdream.org/wordcloud2.js/
+ *
+ * Copyright 2011 - 2019 Tim Guan-tin Chien and contributors.
+ * Released under the MIT license
+ */
+
+/*! -!../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../node_modules/css-loader/dist/cjs.js!../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../node_modules/postcss-loader/dist/cjs.js!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Images.vue?vue&type=style&index=0&id=903e40d0&lang=css */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Audio.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Autocomplete.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Distribution.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Iiifs.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Images.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Licence.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Metadata.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Objects.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Options.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Periods.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Responsible.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./SearchHelp.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Video.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Years.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Audio.vue?vue&type=template&id=7f2ddbe6&ts=true */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Autocomplete.vue?vue&type=template&id=d1482eba&ts=true */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Distribution.vue?vue&type=template&id=422cbfa4&ts=true */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Iiifs.vue?vue&type=template&id=465c35e6&ts=true */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Images.vue?vue&type=template&id=903e40d0&ts=true */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Licence.vue?vue&type=template&id=4e3acee1&ts=true */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Metadata.vue?vue&type=template&id=8e89ba62&ts=true */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Objects.vue?vue&type=template&id=44a8f824&ts=true */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Options.vue?vue&type=template&id=f8f81236&ts=true */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Periods.vue?vue&type=template&id=31f061b0&ts=true */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Responsible.vue?vue&type=template&id=771685f4&ts=true */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./SearchHelp.vue?vue&type=template&id=ec977bf8&ts=true */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Video.vue?vue&type=template&id=792d0bea&ts=true */
+
+/*! -!../../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Years.vue?vue&type=template&id=cd6efca8&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Accordion.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Aggregation.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./BreadCrumb.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Clear.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Description.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./DesktopHeader.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./FilteredItems.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Footer.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Info.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Link.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Links.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./List.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Loader.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Main.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Map.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./MiniMap.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./MobileHeader.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./MultiLangInfo.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Paginator.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./PerPage.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Radio.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Search.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Select.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Sidebar.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./SortOrder.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Tab.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Tabs.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./TimeLine.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Title.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Toggleable.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Tooltip.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./YearsAndPeriods.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Accordion.vue?vue&type=template&id=0bdf5ec2&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Aggregation.vue?vue&type=template&id=33ac28f6&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./BreadCrumb.vue?vue&type=template&id=0075da69&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Clear.vue?vue&type=template&id=ce9ad03e&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Description.vue?vue&type=template&id=fd7f1634&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./DesktopHeader.vue?vue&type=template&id=97906ee2&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./FilteredItems.vue?vue&type=template&id=717039d3&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Footer.vue?vue&type=template&id=132bbc76&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Info.vue?vue&type=template&id=450a7f76&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Link.vue?vue&type=template&id=f7198ec6&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Links.vue?vue&type=template&id=2bb03fa3&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./List.vue?vue&type=template&id=23149435&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./List.vue?vue&type=template&id=27afb18c&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Loader.vue?vue&type=template&id=76dc01f4&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Main.vue?vue&type=template&id=45feefbf&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Map.vue?vue&type=template&id=5d5f5846&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Map.vue?vue&type=template&id=6d7001ef&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./MiniMap.vue?vue&type=template&id=513c2c19&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./MobileHeader.vue?vue&type=template&id=5b9a0b0e&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./MultiLangInfo.vue?vue&type=template&id=79f5b802&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Paginator.vue?vue&type=template&id=01e1ed8a&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./PerPage.vue?vue&type=template&id=1995b985&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Radio.vue?vue&type=template&id=33904f68&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Search.vue?vue&type=template&id=fcd4d378&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Select.vue?vue&type=template&id=42f65442&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Sidebar.vue?vue&type=template&id=a75d7574&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./SortOrder.vue?vue&type=template&id=9f58136e&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Tab.vue?vue&type=template&id=64ee87e2&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Tabs.vue?vue&type=template&id=318b3218&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./TimeLine.vue?vue&type=template&id=0597037d&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Title.vue?vue&type=template&id=0c28aac2&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Toggleable.vue?vue&type=template&id=4a4d224a&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Tooltip.vue?vue&type=template&id=4583b2c0&ts=true */
+
+/*! -!../../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./YearsAndPeriods.vue?vue&type=template&id=3caefe05&ts=true */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./About.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Browse.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./BrowseWhat.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./BrowseWhen.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./BrowseWhere.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Guide.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./NotFound.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Publisher.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Resource.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Result.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Services.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Subject.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./Theme.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./About.vue?vue&type=template&id=447ae0dc&ts=true */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Browse.vue?vue&type=template&id=7e1db9d5&ts=true */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./BrowseWhat.vue?vue&type=template&id=00d63f8e&ts=true */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./BrowseWhen.vue?vue&type=template&id=0613b5af&ts=true */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./BrowseWhere.vue?vue&type=template&id=73c68a7c&ts=true */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Guide.vue?vue&type=template&id=9c4f50fe&ts=true */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./NotFound.vue?vue&type=template&id=eaec7f0c&ts=true */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Publisher.vue?vue&type=template&id=1b408001&ts=true */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Resource.vue?vue&type=template&id=60ead499&ts=true */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Result.vue?vue&type=template&id=65d4d9e8&ts=true */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Services.vue?vue&type=template&id=e3550e2e&ts=true */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Subject.vue?vue&type=template&id=53759271&ts=true */
+
+/*! -!../../node_modules/ts-loader/index.js??clonedRuleSet-1!../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Theme.vue?vue&type=template&id=2ea563ce&ts=true */
+
+/*! -!../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../../node_modules/vue-loader/dist/index.js??ruleSet[0]!./Infographic.vue?vue&type=template&id=1970163f */
+
+/*! -!../node_modules/ts-loader/index.js??clonedRuleSet-1!../node_modules/vue-loader/dist/index.js??ruleSet[0]!../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-reactivity-transform!./App.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../node_modules/ts-loader/index.js??clonedRuleSet-1!../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[4]!../node_modules/vue-loader/dist/index.js??ruleSet[0]!./App.vue?vue&type=template&id=7ba5bd90&ts=true */
+
+/*! ../../../../node_modules/vue-loader/dist/exportHelper.js */
+
+/*! ../../../helpers/AxiosURLSearchParams.js */
+
+/*! ../../../node_modules/vue-loader/dist/exportHelper.js */
+
+/*! ../../modules/_core */
+
+/*! ../../modules/_wks-ext */
+
+/*! ../../modules/es6.promise */
+
+/*! ../../modules/es7.array.flat-map */
+
+/*! ../../modules/es7.array.includes */
+
+/*! ../../modules/es7.object.entries */
+
+/*! ../../modules/es7.object.get-own-property-descriptors */
+
+/*! ../../modules/es7.object.values */
+
+/*! ../../modules/es7.promise.finally */
+
+/*! ../../modules/es7.string.pad-end */
+
+/*! ../../modules/es7.string.pad-start */
+
+/*! ../../modules/es7.string.trim-left */
+
+/*! ../../modules/es7.string.trim-right */
+
+/*! ../../modules/es7.symbol.async-iterator */
+
+/*! ../../node_modules/vue-loader/dist/exportHelper.js */
+
+/*! ../Base/Link.vue */
+
+/*! ../FilteredItems.vue */
+
+/*! ../adapters/adapters.js */
+
+/*! ../cancel/CanceledError.js */
+
+/*! ../cancel/isCancel.js */
+
+/*! ../core/AxiosError.js */
+
+/*! ../core/AxiosHeaders.js */
+
+/*! ../core/buildFullPath.js */
+
+/*! ../core/mergeConfig.js */
+
+/*! ../core/settle.js */
+
+/*! ../defaults/index.js */
+
+/*! ../defaults/transitional.js */
+
+/*! ../env/data.js */
+
+/*! ../helpers/AxiosURLSearchParams.js */
+
+/*! ../helpers/buildURL.js */
+
+/*! ../helpers/combineURLs.js */
+
+/*! ../helpers/composeSignals.js */
+
+/*! ../helpers/formDataToJSON.js */
+
+/*! ../helpers/isAbsoluteURL.js */
+
+/*! ../helpers/parseHeaders.js */
+
+/*! ../helpers/parseProtocol.js */
+
+/*! ../helpers/progressEventReducer.js */
+
+/*! ../helpers/resolveConfig.js */
+
+/*! ../helpers/toFormData.js */
+
+/*! ../helpers/toURLEncodedForm.js */
+
+/*! ../helpers/trackStream.js */
+
+/*! ../helpers/validator.js */
+
+/*! ../modules */
+
+/*! ../modules/_core */
+
+/*! ../modules/es6.array.copy-within */
+
+/*! ../modules/es6.array.every */
+
+/*! ../modules/es6.array.fill */
+
+/*! ../modules/es6.array.filter */
+
+/*! ../modules/es6.array.find */
+
+/*! ../modules/es6.array.find-index */
+
+/*! ../modules/es6.array.for-each */
+
+/*! ../modules/es6.array.from */
+
+/*! ../modules/es6.array.index-of */
+
+/*! ../modules/es6.array.is-array */
+
+/*! ../modules/es6.array.iterator */
+
+/*! ../modules/es6.array.join */
+
+/*! ../modules/es6.array.last-index-of */
+
+/*! ../modules/es6.array.map */
+
+/*! ../modules/es6.array.of */
+
+/*! ../modules/es6.array.reduce */
+
+/*! ../modules/es6.array.reduce-right */
+
+/*! ../modules/es6.array.slice */
+
+/*! ../modules/es6.array.some */
+
+/*! ../modules/es6.array.sort */
+
+/*! ../modules/es6.array.species */
+
+/*! ../modules/es6.date.now */
+
+/*! ../modules/es6.date.to-iso-string */
+
+/*! ../modules/es6.date.to-json */
+
+/*! ../modules/es6.date.to-primitive */
+
+/*! ../modules/es6.date.to-string */
+
+/*! ../modules/es6.function.bind */
+
+/*! ../modules/es6.function.has-instance */
+
+/*! ../modules/es6.function.name */
+
+/*! ../modules/es6.map */
+
+/*! ../modules/es6.math.acosh */
+
+/*! ../modules/es6.math.asinh */
+
+/*! ../modules/es6.math.atanh */
+
+/*! ../modules/es6.math.cbrt */
+
+/*! ../modules/es6.math.clz32 */
+
+/*! ../modules/es6.math.cosh */
+
+/*! ../modules/es6.math.expm1 */
+
+/*! ../modules/es6.math.fround */
+
+/*! ../modules/es6.math.hypot */
+
+/*! ../modules/es6.math.imul */
+
+/*! ../modules/es6.math.log10 */
+
+/*! ../modules/es6.math.log1p */
+
+/*! ../modules/es6.math.log2 */
+
+/*! ../modules/es6.math.sign */
+
+/*! ../modules/es6.math.sinh */
+
+/*! ../modules/es6.math.tanh */
+
+/*! ../modules/es6.math.trunc */
+
+/*! ../modules/es6.number.constructor */
+
+/*! ../modules/es6.number.epsilon */
+
+/*! ../modules/es6.number.is-finite */
+
+/*! ../modules/es6.number.is-integer */
+
+/*! ../modules/es6.number.is-nan */
+
+/*! ../modules/es6.number.is-safe-integer */
+
+/*! ../modules/es6.number.max-safe-integer */
+
+/*! ../modules/es6.number.min-safe-integer */
+
+/*! ../modules/es6.number.parse-float */
+
+/*! ../modules/es6.number.parse-int */
+
+/*! ../modules/es6.number.to-fixed */
+
+/*! ../modules/es6.number.to-precision */
+
+/*! ../modules/es6.object.assign */
+
+/*! ../modules/es6.object.create */
+
+/*! ../modules/es6.object.define-properties */
+
+/*! ../modules/es6.object.define-property */
+
+/*! ../modules/es6.object.freeze */
+
+/*! ../modules/es6.object.get-own-property-descriptor */
+
+/*! ../modules/es6.object.get-own-property-names */
+
+/*! ../modules/es6.object.get-prototype-of */
+
+/*! ../modules/es6.object.is */
+
+/*! ../modules/es6.object.is-extensible */
+
+/*! ../modules/es6.object.is-frozen */
+
+/*! ../modules/es6.object.is-sealed */
+
+/*! ../modules/es6.object.keys */
+
+/*! ../modules/es6.object.prevent-extensions */
+
+/*! ../modules/es6.object.seal */
+
+/*! ../modules/es6.object.set-prototype-of */
+
+/*! ../modules/es6.object.to-string */
+
+/*! ../modules/es6.parse-float */
+
+/*! ../modules/es6.parse-int */
+
+/*! ../modules/es6.promise */
+
+/*! ../modules/es6.reflect.apply */
+
+/*! ../modules/es6.reflect.construct */
+
+/*! ../modules/es6.reflect.define-property */
+
+/*! ../modules/es6.reflect.delete-property */
+
+/*! ../modules/es6.reflect.enumerate */
+
+/*! ../modules/es6.reflect.get */
+
+/*! ../modules/es6.reflect.get-own-property-descriptor */
+
+/*! ../modules/es6.reflect.get-prototype-of */
+
+/*! ../modules/es6.reflect.has */
+
+/*! ../modules/es6.reflect.is-extensible */
+
+/*! ../modules/es6.reflect.own-keys */
+
+/*! ../modules/es6.reflect.prevent-extensions */
+
+/*! ../modules/es6.reflect.set */
+
+/*! ../modules/es6.reflect.set-prototype-of */
+
+/*! ../modules/es6.regexp.constructor */
+
+/*! ../modules/es6.regexp.exec */
+
+/*! ../modules/es6.regexp.flags */
+
+/*! ../modules/es6.regexp.match */
+
+/*! ../modules/es6.regexp.replace */
+
+/*! ../modules/es6.regexp.search */
+
+/*! ../modules/es6.regexp.split */
+
+/*! ../modules/es6.regexp.to-string */
+
+/*! ../modules/es6.set */
+
+/*! ../modules/es6.string.anchor */
+
+/*! ../modules/es6.string.big */
+
+/*! ../modules/es6.string.blink */
+
+/*! ../modules/es6.string.bold */
+
+/*! ../modules/es6.string.code-point-at */
+
+/*! ../modules/es6.string.ends-with */
+
+/*! ../modules/es6.string.fixed */
+
+/*! ../modules/es6.string.fontcolor */
+
+/*! ../modules/es6.string.fontsize */
+
+/*! ../modules/es6.string.from-code-point */
+
+/*! ../modules/es6.string.includes */
+
+/*! ../modules/es6.string.italics */
+
+/*! ../modules/es6.string.iterator */
+
+/*! ../modules/es6.string.link */
+
+/*! ../modules/es6.string.raw */
+
+/*! ../modules/es6.string.repeat */
+
+/*! ../modules/es6.string.small */
+
+/*! ../modules/es6.string.starts-with */
+
+/*! ../modules/es6.string.strike */
+
+/*! ../modules/es6.string.sub */
+
+/*! ../modules/es6.string.sup */
+
+/*! ../modules/es6.string.trim */
+
+/*! ../modules/es6.symbol */
+
+/*! ../modules/es6.typed.array-buffer */
+
+/*! ../modules/es6.typed.data-view */
+
+/*! ../modules/es6.typed.float32-array */
+
+/*! ../modules/es6.typed.float64-array */
+
+/*! ../modules/es6.typed.int16-array */
+
+/*! ../modules/es6.typed.int32-array */
+
+/*! ../modules/es6.typed.int8-array */
+
+/*! ../modules/es6.typed.uint16-array */
+
+/*! ../modules/es6.typed.uint32-array */
+
+/*! ../modules/es6.typed.uint8-array */
+
+/*! ../modules/es6.typed.uint8-clamped-array */
+
+/*! ../modules/es6.weak-map */
+
+/*! ../modules/es6.weak-set */
+
+/*! ../modules/es7.global */
+
+/*! ../modules/web.dom.iterable */
+
+/*! ../modules/web.immediate */
+
+/*! ../modules/web.timers */
+
+/*! ../moment */
+
+/*! ../node_modules/vue-loader/dist/exportHelper.js */
+
+/*! ../platform/index.js */
+
+/*! ../platform/node/classes/FormData.js */
+
+/*! ../static/fa/css/all.min.css */
+
+/*! ../utils.js */
+
+/*! ../utils/utils */
+
+/*! ./About.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./About.vue?vue&type=template&id=447ae0dc&ts=true */
+
+/*! ./Accordion.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Accordion.vue?vue&type=template&id=0bdf5ec2&ts=true */
+
+/*! ./Aggregation.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Aggregation.vue?vue&type=template&id=33ac28f6&ts=true */
+
+/*! ./Aggregation/Options.vue */
+
+/*! ./Aggregation/static */
+
+/*! ./App.vue */
+
+/*! ./App.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./App.vue?vue&type=template&id=7ba5bd90&ts=true */
+
+/*! ./Audio.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Audio.vue?vue&type=template&id=7f2ddbe6&ts=true */
+
+/*! ./Autocomplete.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Autocomplete.vue?vue&type=template&id=d1482eba&ts=true */
+
+/*! ./AxiosError.js */
+
+/*! ./AxiosHeaders.js */
+
+/*! ./BreadCrumb.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./BreadCrumb.vue?vue&type=template&id=0075da69&ts=true */
+
+/*! ./Browse.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Browse.vue?vue&type=template&id=7e1db9d5&ts=true */
+
+/*! ./BrowseWhat.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./BrowseWhat.vue?vue&type=template&id=00d63f8e&ts=true */
+
+/*! ./BrowseWhen.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./BrowseWhen.vue?vue&type=template&id=0613b5af&ts=true */
+
+/*! ./BrowseWhere.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./BrowseWhere.vue?vue&type=template&id=73c68a7c&ts=true */
+
+/*! ./BrowseWhere/Map.vue */
+
+/*! ./CanceledError.js */
+
+/*! ./Clear.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Clear.vue?vue&type=template&id=ce9ad03e&ts=true */
+
+/*! ./Description.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Description.vue?vue&type=template&id=fd7f1634&ts=true */
+
+/*! ./DesktopHeader.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./DesktopHeader.vue?vue&type=template&id=97906ee2&ts=true */
+
+/*! ./Distribution.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Distribution.vue?vue&type=template&id=422cbfa4&ts=true */
+
+/*! ./FilteredItems.vue */
+
+/*! ./FilteredItems.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./FilteredItems.vue?vue&type=template&id=717039d3&ts=true */
+
+/*! ./Footer.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Footer.vue?vue&type=template&id=132bbc76&ts=true */
+
+/*! ./General */
+
+/*! ./General/static */
+
+/*! ./Guide.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Guide.vue?vue&type=template&id=9c4f50fe&ts=true */
+
+/*! ./Iiifs.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Iiifs.vue?vue&type=template&id=465c35e6&ts=true */
+
+/*! ./Images.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Images.vue?vue&type=style&index=0&id=903e40d0&lang=css */
+
+/*! ./Images.vue?vue&type=template&id=903e40d0&ts=true */
+
+/*! ./Info.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Info.vue?vue&type=template&id=450a7f76&ts=true */
+
+/*! ./Infographic.vue?vue&type=template&id=1970163f */
+
+/*! ./InterceptorManager.js */
+
+/*! ./Licence.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Licence.vue?vue&type=template&id=4e3acee1&ts=true */
+
+/*! ./Link.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Link.vue?vue&type=template&id=f7198ec6&ts=true */
+
+/*! ./Links.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Links.vue?vue&type=template&id=2bb03fa3&ts=true */
+
+/*! ./List.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./List.vue?vue&type=template&id=23149435&ts=true */
+
+/*! ./List.vue?vue&type=template&id=27afb18c&ts=true */
+
+/*! ./Loader.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Loader.vue?vue&type=template&id=76dc01f4&ts=true */
+
+/*! ./Main.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Main.vue?vue&type=template&id=45feefbf&ts=true */
+
+/*! ./Main/Audio.vue */
+
+/*! ./Main/Distribution.vue */
+
+/*! ./Main/Iiifs.vue */
+
+/*! ./Main/Images.vue */
+
+/*! ./Main/Licence.vue */
+
+/*! ./Main/Metadata.vue */
+
+/*! ./Main/Objects.vue */
+
+/*! ./Main/Responsible.vue */
+
+/*! ./Main/Video.vue */
+
+/*! ./Map.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Map.vue?vue&type=template&id=5d5f5846&ts=true */
+
+/*! ./Map.vue?vue&type=template&id=6d7001ef&ts=true */
+
+/*! ./Metadata.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Metadata.vue?vue&type=template&id=8e89ba62&ts=true */
+
+/*! ./MiniMap.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./MiniMap.vue?vue&type=template&id=513c2c19&ts=true */
+
+/*! ./MobileHeader.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./MobileHeader.vue?vue&type=template&id=5b9a0b0e&ts=true */
+
+/*! ./MultiLangInfo.vue */
+
+/*! ./MultiLangInfo.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./MultiLangInfo.vue?vue&type=template&id=79f5b802&ts=true */
+
+/*! ./NotFound.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./NotFound.vue?vue&type=template&id=eaec7f0c&ts=true */
+
+/*! ./Objects.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Objects.vue?vue&type=template&id=44a8f824&ts=true */
+
+/*! ./Options.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Options.vue?vue&type=template&id=f8f81236&ts=true */
+
+/*! ./Paginator.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Paginator.vue?vue&type=template&id=01e1ed8a&ts=true */
+
+/*! ./PerPage.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./PerPage.vue?vue&type=template&id=1995b985&ts=true */
+
+/*! ./Periods.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Periods.vue?vue&type=template&id=31f061b0&ts=true */
+
+/*! ./Publisher.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Publisher.vue?vue&type=template&id=1b408001&ts=true */
+
+/*! ./Radio.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Radio.vue?vue&type=template&id=33904f68&ts=true */
+
+/*! ./Resource.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Resource.vue?vue&type=template&id=60ead499&ts=true */
+
+/*! ./Resource/BreadCrumb.vue */
+
+/*! ./Resource/Description.vue */
+
+/*! ./Resource/Links.vue */
+
+/*! ./Resource/Main.vue */
+
+/*! ./Resource/Map.vue */
+
+/*! ./Resource/Sidebar.vue */
+
+/*! ./Resource/Title.vue */
+
+/*! ./Resource/static */
+
+/*! ./Responsible.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Responsible.vue?vue&type=template&id=771685f4&ts=true */
+
+/*! ./Result.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Result.vue?vue&type=template&id=65d4d9e8&ts=true */
+
+/*! ./Result/Info.vue */
+
+/*! ./Result/List.vue */
+
+/*! ./Result/Paginator.vue */
+
+/*! ./Result/PerPage.vue */
+
+/*! ./Result/SortOrder.vue */
+
+/*! ./Search.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Search.vue?vue&type=template&id=fcd4d378&ts=true */
+
+/*! ./Search/Autocomplete.vue */
+
+/*! ./Search/SearchHelp.vue */
+
+/*! ./Search/static */
+
+/*! ./SearchHelp.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./SearchHelp.vue?vue&type=template&id=ec977bf8&ts=true */
+
+/*! ./Select.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Select.vue?vue&type=template&id=42f65442&ts=true */
+
+/*! ./Services.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Services.vue?vue&type=template&id=e3550e2e&ts=true */
+
+/*! ./Sidebar.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Sidebar.vue?vue&type=template&id=a75d7574&ts=true */
+
+/*! ./SortOrder.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./SortOrder.vue?vue&type=template&id=9f58136e&ts=true */
+
+/*! ./Subject.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Subject.vue?vue&type=template&id=53759271&ts=true */
+
+/*! ./Tab.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Tab.vue?vue&type=template&id=64ee87e2&ts=true */
+
+/*! ./Tabs.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Tabs.vue?vue&type=template&id=318b3218&ts=true */
+
+/*! ./Theme.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Theme.vue?vue&type=template&id=2ea563ce&ts=true */
+
+/*! ./TimeLine.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./TimeLine.vue?vue&type=template&id=0597037d&ts=true */
+
+/*! ./Title.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Title.vue?vue&type=template&id=0c28aac2&ts=true */
+
+/*! ./Toggleable.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Toggleable.vue?vue&type=template&id=4a4d224a&ts=true */
+
+/*! ./Tooltip.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Tooltip.vue?vue&type=template&id=4583b2c0&ts=true */
+
+/*! ./Video.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Video.vue?vue&type=template&id=792d0bea&ts=true */
+
+/*! ./Years.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./Years.vue?vue&type=template&id=cd6efca8&ts=true */
+
+/*! ./YearsAndPeriods.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./YearsAndPeriods.vue?vue&type=template&id=3caefe05&ts=true */
+
+/*! ./_a-function */
+
+/*! ./_a-number-value */
+
+/*! ./_add-to-unscopables */
+
+/*! ./_advance-string-index */
+
+/*! ./_an-instance */
+
+/*! ./_an-object */
+
+/*! ./_array-copy-within */
+
+/*! ./_array-fill */
+
+/*! ./_array-includes */
+
+/*! ./_array-methods */
+
+/*! ./_array-reduce */
+
+/*! ./_array-species-constructor */
+
+/*! ./_array-species-create */
+
+/*! ./_bind */
+
+/*! ./_classof */
+
+/*! ./_cof */
+
+/*! ./_collection */
+
+/*! ./_collection-strong */
+
+/*! ./_collection-weak */
+
+/*! ./_core */
+
+/*! ./_create-property */
+
+/*! ./_ctx */
+
+/*! ./_date-to-iso-string */
+
+/*! ./_date-to-primitive */
+
+/*! ./_defined */
+
+/*! ./_descriptors */
+
+/*! ./_dom-create */
+
+/*! ./_enum-bug-keys */
+
+/*! ./_enum-keys */
+
+/*! ./_export */
+
+/*! ./_fails */
+
+/*! ./_fails-is-regexp */
+
+/*! ./_fix-re-wks */
+
+/*! ./_flags */
+
+/*! ./_flatten-into-array */
+
+/*! ./_for-of */
+
+/*! ./_function-to-string */
+
+/*! ./_global */
+
+/*! ./_has */
+
+/*! ./_hide */
+
+/*! ./_html */
+
+/*! ./_ie8-dom-define */
+
+/*! ./_inherit-if-required */
+
+/*! ./_invoke */
+
+/*! ./_iobject */
+
+/*! ./_is-array */
+
+/*! ./_is-array-iter */
+
+/*! ./_is-integer */
+
+/*! ./_is-object */
+
+/*! ./_is-regexp */
+
+/*! ./_iter-call */
+
+/*! ./_iter-create */
+
+/*! ./_iter-define */
+
+/*! ./_iter-detect */
+
+/*! ./_iter-step */
+
+/*! ./_iterators */
+
+/*! ./_library */
+
+/*! ./_math-expm1 */
+
+/*! ./_math-fround */
+
+/*! ./_math-log1p */
+
+/*! ./_math-sign */
+
+/*! ./_meta */
+
+/*! ./_microtask */
+
+/*! ./_new-promise-capability */
+
+/*! ./_object-assign */
+
+/*! ./_object-create */
+
+/*! ./_object-dp */
+
+/*! ./_object-dps */
+
+/*! ./_object-gopd */
+
+/*! ./_object-gopn */
+
+/*! ./_object-gopn-ext */
+
+/*! ./_object-gops */
+
+/*! ./_object-gpo */
+
+/*! ./_object-keys */
+
+/*! ./_object-keys-internal */
+
+/*! ./_object-pie */
+
+/*! ./_object-sap */
+
+/*! ./_object-to-array */
+
+/*! ./_own-keys */
+
+/*! ./_parse-float */
+
+/*! ./_parse-int */
+
+/*! ./_perform */
+
+/*! ./_promise-resolve */
+
+/*! ./_property-desc */
+
+/*! ./_redefine */
+
+/*! ./_redefine-all */
+
+/*! ./_regexp-exec */
+
+/*! ./_regexp-exec-abstract */
+
+/*! ./_same-value */
+
+/*! ./_set-proto */
+
+/*! ./_set-species */
+
+/*! ./_set-to-string-tag */
+
+/*! ./_shared */
+
+/*! ./_shared-key */
+
+/*! ./_species-constructor */
+
+/*! ./_strict-method */
+
+/*! ./_string-at */
+
+/*! ./_string-context */
+
+/*! ./_string-html */
+
+/*! ./_string-pad */
+
+/*! ./_string-repeat */
+
+/*! ./_string-trim */
+
+/*! ./_string-ws */
+
+/*! ./_task */
+
+/*! ./_to-absolute-index */
+
+/*! ./_to-index */
+
+/*! ./_to-integer */
+
+/*! ./_to-iobject */
+
+/*! ./_to-length */
+
+/*! ./_to-object */
+
+/*! ./_to-primitive */
+
+/*! ./_typed */
+
+/*! ./_typed-array */
+
+/*! ./_typed-buffer */
+
+/*! ./_uid */
+
+/*! ./_user-agent */
+
+/*! ./_validate-collection */
+
+/*! ./_wks */
+
+/*! ./_wks-define */
+
+/*! ./_wks-ext */
+
+/*! ./adapters/adapters.js */
+
+/*! ./buildFullPath.js */
+
+/*! ./buildURL.js */
+
+/*! ./cancel/CancelToken.js */
+
+/*! ./cancel/CanceledError.js */
+
+/*! ./cancel/isCancel.js */
+
+/*! ./classes/Blob.js */
+
+/*! ./classes/FormData.js */
+
+/*! ./classes/URLSearchParams.js */
+
+/*! ./common/utils.js */
+
+/*! ./component/About.vue */
+
+/*! ./component/Browse.vue */
+
+/*! ./component/BrowseWhat.vue */
+
+/*! ./component/BrowseWhen.vue */
+
+/*! ./component/BrowseWhere.vue */
+
+/*! ./component/Guide.vue */
+
+/*! ./component/Help/Loader.vue */
+
+/*! ./component/Infographic.vue */
+
+/*! ./component/Layout/DesktopHeader.vue */
+
+/*! ./component/Layout/Footer.vue */
+
+/*! ./component/Layout/MobileHeader.vue */
+
+/*! ./component/NotFound.vue */
+
+/*! ./component/Publisher.vue */
+
+/*! ./component/Resource.vue */
+
+/*! ./component/Result.vue */
+
+/*! ./component/Services.vue */
+
+/*! ./component/Subject.vue */
+
+/*! ./component/Theme.vue */
+
+/*! ./const.js */
+
+/*! ./cookies.js */
+
+/*! ./core.get-iterator-method */
+
+/*! ./core/Axios.js */
+
+/*! ./core/AxiosError.js */
+
+/*! ./core/AxiosHeaders.js */
+
+/*! ./core/mergeConfig.js */
+
+/*! ./data.js */
+
+/*! ./defaults/index.js */
+
+/*! ./devtools-EWN81iOl.mjs */
+
+/*! ./dispatchRequest.js */
+
+/*! ./env.js */
+
+/*! ./env/data.js */
+
+/*! ./es6.array.iterator */
+
+/*! ./es6.regexp.exec */
+
+/*! ./es6.regexp.flags */
+
+/*! ./fetch.js */
+
+/*! ./helpers/HttpStatusCode.js */
+
+/*! ./helpers/bind.js */
+
+/*! ./helpers/formDataToJSON.js */
+
+/*! ./helpers/isAxiosError.js */
+
+/*! ./helpers/spread.js */
+
+/*! ./helpers/toFormData.js */
+
+/*! ./http.js */
+
+/*! ./isURLSameOrigin.js */
+
+/*! ./mergeConfig.js */
+
+/*! ./modules/Aggregation */
+
+/*! ./modules/BreadCrumb */
+
+/*! ./modules/General */
+
+/*! ./modules/Periods */
+
+/*! ./modules/Resource */
+
+/*! ./modules/Search */
+
+/*! ./modules/Subject */
+
+/*! ./noConflict */
+
+/*! ./node/index.js */
+
+/*! ./proxy.js */
+
+/*! ./router */
+
+/*! ./speedometer.js */
+
+/*! ./style.css */
+
+/*! ./throttle.js */
+
+/*! ./time.js */
+
+/*! ./toFormData.js */
+
+/*! ./transformData.js */
+
+/*! ./transitional.js */
+
+/*! ./utils.js */
+
+/*! ./wicket */
+
+/*! ./xhr.js */
+
+/*! @/../tailwind.config.js */
+
+/*! @/component/Base/Link.vue */
+
+/*! @/component/Base/Radio.vue */
+
+/*! @/component/Base/Select.vue */
+
+/*! @/component/Filter/Aggregation.vue */
+
+/*! @/component/Filter/Clear.vue */
+
+/*! @/component/Filter/List.vue */
+
+/*! @/component/Filter/MiniMap.vue */
+
+/*! @/component/Filter/Search.vue */
+
+/*! @/component/Filter/TimeLine.vue */
+
+/*! @/component/Filter/Toggleable.vue */
+
+/*! @/component/Filter/YearsAndPeriods.vue */
+
+/*! @/component/Filter/YearsAndPeriods/Periods.vue */
+
+/*! @/component/Filter/YearsAndPeriods/Years.vue */
+
+/*! @/component/Help/Tooltip.vue */
+
+/*! @/component/List/Accordion.vue */
+
+/*! @/component/List/Tab.vue */
+
+/*! @/component/List/Tabs.vue */
+
+/*! @/component/Resource/FilteredItems.vue */
+
+/*! @/component/Result/Info.vue */
+
+/*! @/component/Result/List.vue */
+
+/*! @/component/Result/Paginator.vue */
+
+/*! @/component/Result/SortOrder.vue */
+
+/*! @/router */
+
+/*! @/store/modules */
+
+/*! @/store/modules/General */
+
+/*! @/store/modules/TimeLine/chartjs-plugin-dragzone.js */
+
+/*! @/utils/utils */
+
+/*! @babel/polyfill */
+
+/*! @vue/devtools-api */
+
+/*! Hammer.JS - v2.0.7 - 2016-04-22
+ * http://hammerjs.github.io/
+ *
+ * Copyright (c) 2016 Jorik Tangelder;
+ * Licensed under the MIT license */
+
+/*! axios */
+
+/*! chart.js */
+
+/*! chartjs-plugin-zoom */
+
+/*! core-js/es6 */
+
+/*! core-js/fn/array/flat-map */
+
+/*! core-js/fn/array/includes */
+
+/*! core-js/fn/object/entries */
+
+/*! core-js/fn/object/get-own-property-descriptors */
+
+/*! core-js/fn/object/values */
+
+/*! core-js/fn/promise/finally */
+
+/*! core-js/fn/string/pad-end */
+
+/*! core-js/fn/string/pad-start */
+
+/*! core-js/fn/string/trim-end */
+
+/*! core-js/fn/string/trim-start */
+
+/*! core-js/fn/symbol/async-iterator */
+
+/*! core-js/library/fn/global */
+
+/*! core-js/web */
+
+/*! country-code-lookup */
+
+/*! hammerjs */
+
+/*! iso-639-1 */
+
+/*! latlon-geohash */
+
+/*! leaflet */
+
+/*! leaflet-draw */
+
+/*! leaflet-draw/dist/leaflet.draw.css */
+
+/*! leaflet.heat */
+
+/*! leaflet.markercluster */
+
+/*! leaflet.markercluster/dist/MarkerCluster.Default.css */
+
+/*! leaflet.markercluster/dist/MarkerCluster.css */
+
+/*! leaflet/dist/leaflet.css */
+
+/*! moment */
+
+/*! regenerator-runtime/runtime */
+
+/*! striptags */
+
+/*! url-search-params-polyfill */
+
+/*! vue */
+
+/*! vue-router */
+
+/*! vue-scrollto */
+
+/*! vue3-carousel */
+
+/*! vue3-carousel/dist/carousel.css */
+
+/*! vue3-click-away */
+
+/*! wicket */
+
+/*! wicket/wicket-leaflet */
+
+/*! wordcloud */
+
+/*!**********************!*\
+  !*** ./src/index.ts ***!
+  \**********************/
+
+/*!*************************************************************************************************************!*\
+  !*** ./node_modules/webpack-inject-plugin/dist/webpack-inject-plugin.loader.js?id=webpack-inject-module-1! ***!
+  \*************************************************************************************************************/
+
+/**
+ * Vue 3 Carousel 0.3.4
+ * (c) 2024
+ * @license MIT
+ */
+
+/**
+* vue v3.5.28
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/** @license
+ *
+ *  Copyright (C) 2012 K. Arthur Endsley (kaendsle@mtu.edu)
+ *  Michigan Tech Research Institute (MTRI)
+ *  3600 Green Court, Suite 100, Ann Arbor, MI, 48105
+ *
+ *  This program is free software: you can redistribute it and/or modify
+ *  it under the terms of the GNU General Public License as published by
+ *  the Free Software Foundation, either version 3 of the License, or
+ *  (at your option) any later version.
+ *
+ *  This program is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ */
+
+/**!
+ * url-search-params-polyfill
+ *
+ * @author Jerry Bendy (https://github.com/jerrybendy)
+ * @licence MIT
+ */
+
+//! moment.js
+
+//! moment.js locale configuration

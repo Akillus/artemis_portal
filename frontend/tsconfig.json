@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "types": ["@vue-macros/reactivity-transform/macros-global"],
+    "outDir": "./built/",
+    "sourceMap": true,
+    "strict": true,
+    "noImplicitReturns": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "es2016",
+    "experimentalDecorators": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./src/*",
+      ]
+    }
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
