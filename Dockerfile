@@ -1,8 +1,29 @@
-FROM composer:2 AS vendor
+FROM php:8.2-cli-bookworm AS php-base
 
-WORKDIR /app
+RUN apt-get update && apt-get install -y \
+    curl \
+    git \
+    unzip \
+    libicu-dev \
+    libonig-dev \
+    libsqlite3-dev \
+    libzip-dev \
+    && docker-php-ext-install \
+    intl \
+    mbstring \
+    pdo_sqlite \
+    zip \
+    && rm -rf /var/lib/apt/lists/*
 
-COPY composer.json composer.lock ./
+COPY --from=composer:2 /usr/bin/composer /usr/bin/composer
+
+WORKDIR /var/www/html
+
+FROM php-base AS vendor
+
+COPY . .
+
+RUN mkdir -p storage/framework/cache storage/framework/sessions storage/framework/views bootstrap/cache
 
 RUN composer install \
     --no-dev \
@@ -22,27 +43,10 @@ COPY frontend ./
 
 RUN npm run build-local
 
-FROM php:8.2-cli-bookworm
-
-RUN apt-get update && apt-get install -y \
-    curl \
-    git \
-    unzip \
-    libicu-dev \
-    libonig-dev \
-    libsqlite3-dev \
-    libzip-dev \
-    && docker-php-ext-install \
-    intl \
-    mbstring \
-    pdo_sqlite \
-    zip \
-    && rm -rf /var/lib/apt/lists/*
-
-WORKDIR /var/www/html
+FROM php-base
 
 COPY . .
-COPY --from=vendor /app/vendor ./vendor
+COPY --from=vendor /var/www/html/vendor ./vendor
 COPY --from=frontend /app/frontend/dist/ ./public/
 COPY docker/php/entrypoint.sh /usr/local/bin/ariadne-entrypoint
 
